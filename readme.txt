@@ -10,7 +10,7 @@ Here is a short description of the plugin.  This should be no more than 150 char
 
 == Description ==
 
-<a href="http://anseocompany.com.au">an SEO Company</a> developed this plugin which will schedule a temporary redirect for all your incoming WordPress blog traffic to the official Stop SOPA page, where people can cast their vote- Congress is about to pass internet censorship, even though the vast majority of Americans are opposed. We need to kill the bill - PIPA in the Senate and SOPA in the House - to protect our rights to free speech, privacy, and prosperity.
+an <a href="http://anseocompany.com.au">SEO Company</a> developed this plugin which will schedule a temporary redirect for all your incoming WordPress blog traffic to the official Stop SOPA page, where people can cast their vote- Congress is about to pass internet censorship, even though the vast majority of Americans are opposed. We need to kill the bill - PIPA in the Senate and SOPA in the House - to protect our rights to free speech, privacy, and prosperity.
 
 
 == Changelog ==
