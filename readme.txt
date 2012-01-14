@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: websters
 Donate link: http://anseocompany.com.au/
-Tags: comments, spam
+Tags: stop sopa, stop pipa, sopa, pipa, blackout
 Requires at least: 2.0.2
 Tested up to: 3.3.1
 Stable tag: 0.0.1
