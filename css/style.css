@@ -1,0 +1,29 @@
+
+		h2{
+		  font-size:23px; 
+		  color:#464646; 
+		  font-weight: normal; 
+		  margin:15px 0;
+		}
+	   	table.widefat{
+		}
+		table.widefat tr{
+		  background-color: #F1F1F1;
+          background-image: -moz-linear-gradient(center top , #F9F9F9, #ECECEC);
+		}
+		table.widefat tr td{
+		  padding:10px;		  
+		  color:#333333;
+		  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+		  font-size:14px;
+		  font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+		}
+		table.widefat tr.alternate{
+		   background-color: #FCFCFC;
+		   background-image:none;
+		}
+		table.widefat tr.alternate td{
+		   font-family: sans-serif;
+		   font-size:12px;
+		   color:#21759B;		  
+		}
